@@ -1,0 +1,7 @@
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\obj\Debug\IceCreamShop.csprojAssemblyReference.cache
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\obj\Debug\IceCreamShop.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\bin\Debug\IceCreamShop.exe.config
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\bin\Debug\IceCreamShop.exe
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\bin\Debug\IceCreamShop.pdb
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\obj\Debug\IceCreamShop.exe
+C:\Projects\DesignPatterns\Estructural\Decorator\IceCreamShop\IceCreamShop\obj\Debug\IceCreamShop.pdb
